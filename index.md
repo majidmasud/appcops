@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/majidmasud/appcops/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Last updated: (03/11/2017)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Appcops ("us", "we", or "our") operates (ZigZag Ball, Circle Tap, Brain Rush Dots). This page informs you of our policies regarding the collection, use and disclosure of Personal Information and Device permission we receive from users of these Applications.
 
-### Markdown
+We don’t use any personal information, we use device permission only for providing and improving the app. By using these apps, you agree to the device permission asked upon install accordance with this policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Information Collection And Use
 
-```markdown
-Syntax highlighted code block
+While using our apps, we may ask you to accept certain device permission like camera and GPS etc. We don’t collect or use any sort of personal information.
 
-# Header 1
-## Header 2
-### Header 3
+## Security
 
-- Bulleted
-- List
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-1. Numbered
-2. List
+## Changes To This Privacy Policy
 
-**Bold** and _Italic_ and `Code` text
+This Privacy Policy is effective as of (03/11/2017)and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-[Link](url) and ![Image](src)
-```
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our apps.
 
-### Jekyll Themes
+## Contact Us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/majidmasud/appcops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions about this Privacy Policy, please contact us at (majid_masud@hotmail.com)
