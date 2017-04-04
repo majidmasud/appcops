@@ -2,7 +2,7 @@
 
 Last updated: (03/11/2017)
 
-Appcops ("us", "we", or "our") operates (ZigZag Ball, Circle Tap, Brain Rush Dots). This page informs you of our policies regarding the collection, use and disclosure of Personal Information and Device permission we receive from users of these Applications.
+Appcops ("us", "we", or "our") operates (ZigZag Ball, Circle Tap, Brain Rush Dots,Angry Bird Scream). This page informs you of our policies regarding the collection, use and disclosure of Personal Information and Device permission we receive from users of these Applications.
 
 We don’t use any personal information, we use device permission only for providing and improving the app. By using these apps, you agree to the device permission asked upon install accordance with this policy.
 
